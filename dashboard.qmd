@@ -1,9 +1,9 @@
 ---
-title: "Labor and Delivery Dashboard"
+title: "VIDA Dashboard"
 format: 
   dashboard:
     nav-buttons: [github]
-    github: https://github.com/mine-cetinkaya-rundel/ld-dashboard
+    github: https://github.com/mine-cetinkaya-rundel/VIDA_dashboard
 logo: images/logo.png
 theme: [sandstone, theme/custom.scss]
 fig-width: 10
